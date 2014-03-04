@@ -19,7 +19,7 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:id="@+id/textview_preferences"
+                android:id="@+id/menu_textview_preferences"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
@@ -28,7 +28,7 @@
                 android:text="PREFERENCES" />
 
             <TextView
-                android:id="@+id/textview_preferences"
+                android:id="@+id/menu_textview_roster"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
@@ -37,7 +37,7 @@
                 android:text="Roster" />
 
             <TextView
-                android:id="@+id/textview_preferences"
+                android:id="@+id/menu_textview_events"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
@@ -46,7 +46,7 @@
                 android:text="Events" />
 
             <TextView
-                android:id="@+id/textview_preferences"
+                android:id="@+id/menu_textview_about"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
@@ -55,7 +55,7 @@
                 android:text="About NDSU ACM" />
 
             <TextView
-                android:id="@+id/textview_preferences"
+                android:id="@+id/menu_textview_credit"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
@@ -64,7 +64,7 @@
                 android:text="Credit System" />
 
             <TextView
-                android:id="@+id/textview_preferences"
+                android:id="@+id/menu_textview_camera"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
@@ -73,7 +73,7 @@
                 android:text="ACM Camera" />
 
             <TextView
-                android:id="@+id/textview_preferences"
+                android:id="@+id/textview_extra"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
