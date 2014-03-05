@@ -14,9 +14,9 @@
         android:layout_height="match_parent" >
 
         <LinearLayout
-            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
 
             <TextView
                 android:id="@+id/menu_textview_preferences"
@@ -73,7 +73,7 @@
                 android:text="ACM Camera" />
 
             <TextView
-                android:id="@+id/textview_extra"
+                android:id="@+id/menu_textview_extra"
                 android:layout_width="match_parent"
                 android:layout_height="60dip"
                 android:layout_margin="8dp"
