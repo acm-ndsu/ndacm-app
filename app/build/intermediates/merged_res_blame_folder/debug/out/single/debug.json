@@ -1,26 +1,26 @@
 [
     {
-        "merged": "org.ndacm.ndacmapp-merged_res-29:/drawable-hdpi_ic_launcher.png.flat",
-        "source": "org.ndacm.ndacmapp-main-31:/drawable-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-merged_res-29:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-main-31:\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.ndacm.ndacmapp-merged_res-29:/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "org.ndacm.ndacmapp-main-31:/drawable-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-merged_res-29:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-main-31:\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.ndacm.ndacmapp-merged_res-29:/drawable-mdpi_ic_launcher.png.flat",
-        "source": "org.ndacm.ndacmapp-main-31:/drawable-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-merged_res-29:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-main-31:\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "org.ndacm.ndacmapp-merged_res-29:/menu_menu.xml.flat",
-        "source": "org.ndacm.ndacmapp-main-31:/menu/menu.xml"
+        "merged": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-merged_res-29:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-main-31:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-merged_res-29:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Carson\\.gradle\\daemon\\7.3.3\\org.ndacm.ndacmapp-main-31:\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "org.ndacm.ndacmapp-merged_res-29:/layout_activity_menu.xml.flat",
         "source": "org.ndacm.ndacmapp-main-31:/layout/activity_menu.xml"
-    },
-    {
-        "merged": "org.ndacm.ndacmapp-merged_res-29:/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "org.ndacm.ndacmapp-main-31:/drawable-xxhdpi/ic_launcher.png"
     }
 ]

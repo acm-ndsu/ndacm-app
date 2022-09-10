@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="BaseTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Navigation Bar Color. -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- Window (Startup) color. -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

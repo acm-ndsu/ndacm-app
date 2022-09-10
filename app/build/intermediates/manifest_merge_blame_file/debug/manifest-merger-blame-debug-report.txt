@@ -11,70 +11,69 @@
 9-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml
 10
 11    <permission
-11-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+11-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\63cc23c7f76a96e9e90dd731baa10e35\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 12        android:name="org.ndacm.ndacmapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+12-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\63cc23c7f76a96e9e90dd731baa10e35\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+13-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\63cc23c7f76a96e9e90dd731baa10e35\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 14
 15    <uses-permission android:name="org.ndacm.ndacmapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+15-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\63cc23c7f76a96e9e90dd731baa10e35\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\63cc23c7f76a96e9e90dd731baa10e35\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:8:5-23:19
-18        android:allowBackup="true"
-18-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:9:9-35
-19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-20        android:debuggable="true"
-21        android:extractNativeLibs="false"
-22        android:icon="@drawable/ic_launcher"
-22-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:10:9-45
-23        android:label="@string/app_name"
-23-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:11:9-41
-24        android:testOnly="true"
-25        android:theme="@style/AppTheme" >
-25-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:12:9-40
-26        <activity
-26-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:14:9-22:20
-27            android:name="org.ndacm.ndacmapp.MenuActivity"
-27-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:15:13-59
-28            android:exported="true" >
-28-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:16:13-36
-29            <intent-filter>
-29-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:17:13-21:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:18:17-69
-30-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:18:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:20:17-77
-32-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:20:27-74
-33            </intent-filter>
-34        </activity>
-35
-36        <provider
-36-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-37            android:name="androidx.startup.InitializationProvider"
-37-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-38            android:authorities="org.ndacm.ndacmapp.androidx-startup"
-38-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-39            android:exported="false" >
-39-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-40            <meta-data
-40-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-41                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-42                android:value="androidx.startup" />
-42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-43            <meta-data
-43-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Carson\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-44                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-44-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Carson\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-45                android:value="androidx.startup" />
-45-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Carson\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-46        </provider>
-47    </application>
-48
-49</manifest>
+17-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:6:5-20:19
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.9.0] C:\Users\Carson\.gradle\caches\transforms-3\63cc23c7f76a96e9e90dd731baa10e35\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@drawable/ic_launcher"
+21-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:7:9-45
+22        android:label="@string/app_name"
+22-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:8:9-41
+23        android:theme="@style/BaseTheme" >
+23-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:9:9-41
+24        <activity
+24-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:11:9-19:20
+25            android:name="org.ndacm.ndacmapp.MenuActivity"
+25-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:12:13-41
+26            android:exported="true"
+26-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:14:13-36
+27            android:theme="@style/BaseTheme" >
+27-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:13:13-45
+28            <intent-filter>
+28-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:15:13-18:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:16:17-69
+29-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:16:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:17:17-77
+31-->C:\Users\Carson\AndroidStudioProjects\NDACM_App\app\src\main\AndroidManifest.xml:17:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+36            android:name="androidx.startup.InitializationProvider"
+36-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+37            android:authorities="org.ndacm.ndacmapp.androidx-startup"
+37-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+38            android:exported="false" >
+38-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+39            <meta-data
+39-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+40                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+40-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+41                android:value="androidx.startup" />
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Carson\.gradle\caches\transforms-3\8646fc24a05f0f3fb603801ddeb6af39\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+42            <meta-data
+42-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Carson\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+43-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Carson\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+44                android:value="androidx.startup" />
+44-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Carson\.gradle\caches\transforms-3\a12ed9220754cce2dddf3ed6d58bf3a3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+45        </provider>
+46    </application>
+47
+48</manifest>

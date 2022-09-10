@@ -2,16 +2,19 @@ package org.ndacm.ndacmapp
 
 import android.app.Activity
 import android.os.Bundle
-import android.view.Menu
 import android.view.View
-import org.ndacm.ndacmapp.R
 import android.widget.TextView
 import android.widget.Toast
+import androidx.core.view.WindowCompat
 
 class MenuActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_menu)
+
+        WindowCompat.setDecorFitsSystemWindows(window,false) //for edge-to-edge display
+
+
         val menuButtonPreferences = findViewById<View>(R.id.menu_textview_preferences) as TextView
         menuButtonPreferences.setOnClickListener {
             Toast.makeText(
@@ -70,9 +73,5 @@ class MenuActivity : Activity() {
         }
     }
 
-    override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        menuInflater.inflate(R.menu.menu, menu)
-        return true
-    }
+
 }
