@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MenuActivity" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/menu_textview_preferences"
+                android:layout_width="match_parent"
+                android:layout_height="60dip"
+                android:layout_margin="8dp"
+                android:background="#FFFF88DD"
+                android:gravity="center"
+                android:text="PREFERENCES" />
+
+            <TextView
+                android:id="@+id/menu_textview_roster"
+                android:layout_width="match_parent"
+                android:layout_height="60dip"
+                android:layout_margin="8dp"
+                android:background="#FFFF88DD"
+                android:gravity="center"
+                android:text="Roster" />
+
+            <TextView
+                android:id="@+id/menu_textview_events"
+                android:layout_width="match_parent"
+                android:layout_height="60dip"
+                android:layout_margin="8dp"
+                android:background="#FFFF88DD"
+                android:gravity="center"
+                android:text="Events" />
+
+            <TextView
+                android:id="@+id/menu_textview_about"
+                android:layout_width="match_parent"
+                android:layout_height="60dip"
+                android:layout_margin="8dp"
+                android:background="#FFFF88DD"
+                android:gravity="center"
+                android:text="About NDSU ACM" />
+
+            <TextView
+                android:id="@+id/menu_textview_credit"
+                android:layout_width="match_parent"
+                android:layout_height="60dip"
+                android:layout_margin="8dp"
+                android:background="#FFFF88DD"
+                android:gravity="center"
+                android:text="Credit System" />
+
+            <TextView
+                android:id="@+id/menu_textview_camera"
+                android:layout_width="match_parent"
+                android:layout_height="60dip"
+                android:layout_margin="8dp"
+                android:background="#FFFF88DD"
+                android:gravity="center"
+                android:text="ACM Camera" />
+
+            <TextView
+                android:id="@+id/menu_textview_extra"
+                android:layout_width="match_parent"
+                android:layout_height="60dip"
+                android:layout_margin="8dp"
+                android:background="#FFFF88DD"
+                android:gravity="center"
+                android:text="Extra Button" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
