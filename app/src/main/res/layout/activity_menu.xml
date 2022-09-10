@@ -24,7 +24,8 @@
             android:layout_margin="8dp"
             android:background="#FFFF88DD"
             android:gravity="center"
-            android:text="PREFERENCES" />
+            android:text="PREFERENCES"
+            android:textColor="#37474F" />
 
         <TextView
             android:id="@+id/menu_textview_roster"
@@ -33,7 +34,8 @@
             android:layout_margin="8dp"
             android:background="#FFFF88DD"
             android:gravity="center"
-            android:text="Roster" />
+            android:text="Roster"
+            android:textColor="#37474F" />
 
         <TextView
             android:id="@+id/menu_textview_events"
@@ -42,7 +44,8 @@
             android:layout_margin="8dp"
             android:background="#FFFF88DD"
             android:gravity="center"
-            android:text="Events" />
+            android:text="Events"
+            android:textColor="#37474F" />
 
         <TextView
             android:id="@+id/menu_textview_about"
@@ -51,7 +54,8 @@
             android:layout_margin="8dp"
             android:background="#FFFF88DD"
             android:gravity="center"
-            android:text="About NDSU ACM" />
+            android:text="About NDSU ACM"
+            android:textColor="#37474F" />
 
         <TextView
             android:id="@+id/menu_textview_credit"
@@ -60,7 +64,8 @@
             android:layout_margin="8dp"
             android:background="#FFFF88DD"
             android:gravity="center"
-            android:text="Credit System" />
+            android:text="Credit System"
+            android:textColor="#37474F" />
 
         <TextView
             android:id="@+id/menu_textview_camera"
@@ -69,7 +74,8 @@
             android:layout_margin="8dp"
             android:background="#FFFF88DD"
             android:gravity="center"
-            android:text="ACM Camera" />
+            android:text="ACM Camera"
+            android:textColor="#37474F" />
 
         <TextView
             android:id="@+id/menu_textview_extra"
@@ -78,7 +84,8 @@
             android:layout_margin="8dp"
             android:background="#FFFF88DD"
             android:gravity="center"
-            android:text="Extra Button" />
+            android:text="Extra Button"
+            android:textColor="#37474F" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
