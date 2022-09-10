@@ -1,12 +1,14 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package org.ndacm.ndacmapp;
+package org.ndacm.ndacmapp
 
-public final class BuildConfig {
-  public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "org.ndacm.ndacmapp";
-  public static final String BUILD_TYPE = "debug";
-  public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0";
+import java.lang.Boolean
+
+object BuildConfig {
+    val DEBUG = Boolean.parseBoolean("true")
+    const val APPLICATION_ID = "org.ndacm.ndacmapp"
+    const val BUILD_TYPE = "debug"
+    const val VERSION_CODE = 1
+    const val VERSION_NAME = "1.0"
 }
