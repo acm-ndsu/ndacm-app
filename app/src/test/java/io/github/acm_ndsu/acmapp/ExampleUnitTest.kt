@@ -1,4 +1,4 @@
-package com.example.myapplication
+package io.github.acm_ndsu.acmapp
 
 import org.junit.Test
 

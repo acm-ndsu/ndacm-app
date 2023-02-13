@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.myapplication'
+    namespace 'io.github.ndsu_acm.acmapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.myapplication"
+        applicationId "io.github.ndsu_acm.acmapp"
         minSdk 24
         targetSdk 33
         versionCode 1
