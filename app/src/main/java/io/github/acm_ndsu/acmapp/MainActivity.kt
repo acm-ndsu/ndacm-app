@@ -93,6 +93,10 @@ fun Main(modifier: Modifier = Modifier,
             content = {Snacks()},
             icon = { Icon(Icons.Filled.List, contentDescription = "Bottom Icon $currentPage") },
             label = { Text("Snacks") }
+        ),Page(
+            content = {constitution()},
+            icon = { Icon(Icons.Filled.List, contentDescription = "Bottom Icon $currentPage") },
+            label = { Text("Constitution") }
         )
     )
 
